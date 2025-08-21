@@ -1,0 +1,21 @@
+html * {
+    font-family: $primary-font;
+}
+ 
+body {
+    overflow-x: hidden;
+    margin:0;
+    max-width: 1080px;
+    background-color: $gray;
+} 
+
+main{
+    margin: 0;
+    max-width: 1080px;
+}
+
+footer{
+    max-width: 1080px;
+    margin: 0;
+    padding: 0;
+}
